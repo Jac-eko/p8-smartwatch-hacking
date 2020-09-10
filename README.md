@@ -9,6 +9,8 @@ P8 Smartwatch (Colmi) hacking
 - Watchy (isn't waterproof) 55$
   - https://www.hackster.io/news/sport-your-hacker-status-on-your-wrist-with-watchy-an-esp32-powered-smartwatch-3db389fd4bc3
   - https://github.com/sqfmi/Watchy-Hardware
+- Amazfit Bip (games, calculator, seems hard to create apps) ~50-65$
+  - https://github.com/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
 
 # Micropython learning
 - https://realpython.com/micropython/

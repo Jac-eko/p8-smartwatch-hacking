@@ -2,7 +2,7 @@
 P8 Smartwatch (Colmi) hacking
 
 # Other hackable watches
-- LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last too long) 30$
+- LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 30$
   - https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/ 
 - Hexiwear (it stopped in 2017) 56$
   - https://www.mikroe.com/hexiwear 

@@ -1,6 +1,26 @@
 # p8-smartwach
 P8 Smartwatch (Colmi) hacking
 
+
+# Alternative software
+- Espurino
+  - https://github.com/fanoush/ds-d6/tree/master/espruino/DFU/P8
+- ATC
+  - 
+  
+ [![Alt text](https://img.youtube.com/vi/rRqulnz1nJM/0.jpg)](https://www.youtube.com/watch?v=rRqulnz1nJM)
+  
+- Gitter discussion
+  - https://gitter.im/nRF51822-Arduino-Mbed-smart-watch/Lobby?at=5eaeabe831a6d25d7ca726f3
+  
+# How to flash with DaFlasher
+- https://github.com/atc1441/DaFlasherFiles
+- https://play.google.com/store/apps/details?id=com.atcnetz.paatc.patc
+[![Alt text](https://img.youtube.com/vi/gUVEz-pxhgg/0.jpg)](https://www.youtube.com/watch?v=gUVEz-pxhgg)
+
+- Other DaFlasher compatible smartwaches and branclets
+ - https://gist.github.com/atc1441/d0a3c1f5ee69ab901bccba4eb47a6e4e
+
 # Other hackable watches
 - LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 30$
   - https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/ 

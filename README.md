@@ -61,11 +61,10 @@ Daniel Thompson
     - InfinityTime - https://github.com/JF002/Pinetime/blob/master/README.md
     - Visual Rust - https://marketplace.visualstudio.com/items?itemName=LeeLupYuen.visual-embedded-rust
     - CHIP-8 games - https://lupyuen.github.io/pinetime-rust-mynewt/articles/chip8
-- BangleJS (moded NO1 F18) 90$
-  - https://banglejs.com
-- Pebble (not made any more, old ones could use Rebble)
 - LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 30$
   - https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/ 
+- Amazfit Bip (games, calculator, seems hard to create new apps) ~50-65$
+  - https://github.com/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
 - SMA-Q2 58$
   - https://github.com/emeryth/sma-q2-oss
   - https://hackaday.io/project/85463-color-open-source-smartwatch
@@ -75,10 +74,11 @@ Daniel Thompson
 - Watchy (isn't waterproof) 55$
   - https://www.hackster.io/news/sport-your-hacker-status-on-your-wrist-with-watchy-an-esp32-powered-smartwatch-3db389fd4bc3
   - https://github.com/sqfmi/Watchy-Hardware
-- Amazfit Bip (games, calculator, seems hard to create apps) ~50-65$
-  - https://github.com/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
-- TG-Watch02
-  - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
+- BangleJS (moded DT No.1 F18) 90$
+  - https://banglejs.com
+- Not available
+ - Pebble (not made any more, old ones could use Rebble)
+ - TG-Watch02 - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
   
 # Micropython learning
 - https://realpython.com/micropython/

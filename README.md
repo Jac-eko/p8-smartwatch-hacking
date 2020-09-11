@@ -74,6 +74,7 @@ Daniel Thompson
 
 - Amazfit Bip (games, calculator, seems hard to create new apps) ~50-65$
   - https://github.com/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
+  - list of apps: https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fmyamazfit.ru%2Fthreads%2Fbip-prilozhenija-dlja-bipos-elf.1174%2F (translated to english from russian)
 - SMA-Q2 58$
   - https://github.com/emeryth/sma-q2-oss
   - https://hackaday.io/project/85463-color-open-source-smartwatch

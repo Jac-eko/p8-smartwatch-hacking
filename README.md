@@ -69,6 +69,9 @@ Daniel Thompson
     - 30$ https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/ 
   - https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library
   - https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/
+- DSTIKE (no case, isn't waterproof) 40$
+  - https://www.cnx-software.com/2020/03/31/dstike-esp32-watch-development-board-comes-with-oled-or-tft-display/
+
 - Amazfit Bip (games, calculator, seems hard to create new apps) ~50-65$
   - https://github.com/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
 - SMA-Q2 58$
@@ -77,8 +80,9 @@ Daniel Thompson
   - Buy: https://pl.geekbuying.com/item/SMA-Q2-Smartwatch-Heart-Rate-Monitor-Black-389947.html
 - Hexiwear (it stopped in 2017) 56$
   - https://www.mikroe.com/hexiwear 
-- Watchy (isn't waterproof) 55$
+- Watchy (no case, isn't waterproof) 55$
   - https://www.hackster.io/news/sport-your-hacker-status-on-your-wrist-with-watchy-an-esp32-powered-smartwatch-3db389fd4bc3
+  - https://www.cnx-software.com/2020/03/05/watchy-smartwatch-esp32-wifi-bluetooth-soc-with-e-ink-display/
   - https://github.com/sqfmi/Watchy-Hardware
 - BangleJS (moded DT No.1 F18) 90$
   - https://banglejs.com

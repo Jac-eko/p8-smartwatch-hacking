@@ -13,6 +13,7 @@ Product page: https://www.colmi.com/products/p8-smartwatch
   - https://github.com/daniel-thompson/wasp-os
   - documentation: https://wasp-os.readthedocs.io/en/latest/index.html
   - forum: https://forum.pine64.org/showthread.php?tid=9017
+  - exemple of startrek themed modification: https://forum.pine64.org/showthread.php?tid=11287
   - installing tutorial
 
 [![Alt text](https://img.youtube.com/vi/VJoDtMy-4pk/0.jpg)](https://www.youtube.com/watch?v=VJoDtMy-4pk)

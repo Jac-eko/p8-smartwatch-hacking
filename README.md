@@ -17,7 +17,7 @@ Product page: https://www.colmi.com/products/p8-smartwatch
   - installing tutorial
 
 [![Alt text](https://img.youtube.com/vi/VJoDtMy-4pk/0.jpg)](https://www.youtube.com/watch?v=VJoDtMy-4pk)
-- ATCwatch (C)
+- ATCwatch (C++)
   - https://github.com/atc1441/ATCwatch
   
 [![Alt text](https://img.youtube.com/vi/rRqulnz1nJM/0.jpg)](https://www.youtube.com/watch?v=rRqulnz1nJM)

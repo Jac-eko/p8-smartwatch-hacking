@@ -62,8 +62,13 @@ Daniel Thompson
     - InfinityTime - https://github.com/JF002/Pinetime/blob/master/README.md
     - Visual Rust - https://marketplace.visualstudio.com/items?itemName=LeeLupYuen.visual-embedded-rust
     - CHIP-8 games - https://lupyuen.github.io/pinetime-rust-mynewt/articles/chip8
-- LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 30$
-  - https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/ 
+- LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 25$
+  - buy: 
+    - 25$ https://pl.aliexpress.com/item/4000971508364.html
+    - 26$ https://www.banggood.com/LILYGO-TTGO-T-Watch-2020-ESP32-Main-Chip-1_54-Inch-Touch-Display-Programmable-Wearable-Environmental-Interaction-Watch-p-1671427.html
+    - 30$ https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/ 
+  - https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library
+  - https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/
 - Amazfit Bip (games, calculator, seems hard to create new apps) ~50-65$
   - https://github.com/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
 - SMA-Q2 58$

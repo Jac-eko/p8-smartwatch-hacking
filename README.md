@@ -2,15 +2,15 @@
 title: P8 hack
 layout: default
 ---
-
+If you are reading this from github md go to <https://jac-eko.github.io/p8-smartwatch-hacking/> for more comfortable reading. 
 
 # p8-smartwach
-P8 Smartwatch (Colmi) hacking resources page
+P8 (Colmi) Smartwatch hacking resources page.
 
-P8 watch is one of many smartwatches supported by DaFit app (including PineTime). It is quite cheap (~$17 USD on aliexpress) and has full touchscreen, button and 240x240 color display.
+P8 watch is one of many smartwatches supported by DaFit app (including PineTime). It is quite cheap (~$18 USD on aliexpress) and has full touchscreen, button and 240x240 color display.
+P8 is similar to PineTime, it could use the same software with minor changes.
 
-"the p8 watch is a pinetime, same hardware, pinouts, manufacturer. Some minor differences on how the button is handled exist" - enaon
-"PineTime and P8 are almost identical but attract different types of developer" - Daniel Thompson
+
 
 Buy: <https://pl.aliexpress.com/item/4000557708951.html> (18$)
 
@@ -73,8 +73,12 @@ Daniel Thompson: (from waspOS)
 # Other useful information
 - P8 Pinouts
   - <https://files.gitter.im/nRF51822-Arduino-Mbed-smart-watch/Lobby/oFNe/P8pinout.jpg>
- - Other DaFlasher compatible smartwatches and bracelets
+- Other DaFlasher compatible smartwatches and bracelets
   - <https://gist.github.com/atc1441/d0a3c1f5ee69ab901bccba4eb47a6e4e>
+
+"the p8 watch is a pinetime, same hardware, pinouts, manufacturer. Some minor differences on how the button is handled exist" - enaon
+
+"PineTime and P8 are almost identical but attract different types of developer" - Daniel Thompson
 
 # Micropython learning
 - <https://realpython.com/micropython/>

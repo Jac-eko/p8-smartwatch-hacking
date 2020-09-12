@@ -5,7 +5,10 @@ permalink: /other-watches/
 ---
  
 # Other hackable watches (prices are not including shipping)
-**PineTime (only not glued case devkit) 25$**
+
+Sorted by price (lowest first)
+
+**PineTime (only devkit with not glued case ) 25$**
   - <https://www.pine64.org/pinetime/>
   - <https://wiki.pine64.org/index.php/PineTime>
   - buy: <https://store.pine64.org/?product=pinetime-dev-kit>
@@ -14,7 +17,7 @@ permalink: /other-watches/
     - Visual Rust - <https://marketplace.visualstudio.com/items?itemName=LeeLupYuen.visual-embedded-rust>
     - CHIP-8 games - <https://lupyuen.github.io/pinetime-rust-mynewt/articles/chip8>
 
-**LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 25$**
+**LILYGO® TTGO T-Watch-2020 (seams simple to program, battery last 1-3 days) 25$**
   - buy: 
     - 25$ <https://pl.aliexpress.com/item/4000971508364.html>
     - 26$ <https://www.banggood.com/LILYGO-TTGO-T-Watch-2020-ESP32-Main-Chip-1_54-Inch-Touch-Display-Programmable-Wearable-Environmental-Interaction-Watch-p-1671427.html>

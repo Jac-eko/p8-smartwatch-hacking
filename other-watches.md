@@ -54,6 +54,10 @@ Sorted by price (lowest first)
 
 **BangleJS (moded DT No.1 F18) 90$**
   - <https://banglejs.com>
+  - apps: <https://banglejs.com/apps/>
+  - dev tutrials:
+   - <https://www.espruino.com/Bangle.js+Development<
+   - <http://www.espruino.com/Bangle.js+First+App>
 
 **WatchX 99$**
   - <https://www.watchx.io>

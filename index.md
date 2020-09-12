@@ -1,3 +1,9 @@
+---
+title: Start
+layout: default
+---
+
+
 # p8-smartwach
 P8 Smartwatch (Colmi) hacking resources page
 

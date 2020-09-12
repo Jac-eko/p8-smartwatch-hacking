@@ -12,7 +12,7 @@ permalink: /other-watches/
   - available OSes: <https://wiki.pine64.org/index.php/PineTime#Development_efforts>
     - InfinityTime - <https://github.com/JF002/Pinetime/blob/master/README.md>
     - Visual Rust - <https://marketplace.visualstudio.com/items?itemName=LeeLupYuen.visual-embedded-rust>
-    - CHIP-8 games - <https://lupyuen.github.io/pinetime-rust-mynewt/articles/chip8.
+    - CHIP-8 games - <https://lupyuen.github.io/pinetime-rust-mynewt/articles/chip8>
 
 **LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 25$**
   - buy: 

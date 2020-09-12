@@ -69,6 +69,9 @@ Daniel Thompson
     - 30$ https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/ 
   - https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library
   - https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/
+- Mixtile GENA 2017 (monochromic always on display, for paring with iOS devices, no case and strap) $34
+  - Buy: https://www.dfrobot.com/product-1402.html
+  - buy: https://www.tindie.com/products/Mixtile/mixtile-gena/
 - DSTIKE (no case, isn't waterproof) 40$
   - https://www.cnx-software.com/2020/03/31/dstike-esp32-watch-development-board-comes-with-oled-or-tft-display/
 
@@ -79,17 +82,29 @@ Daniel Thompson
   - https://github.com/emeryth/sma-q2-oss
   - https://hackaday.io/project/85463-color-open-source-smartwatch
   - Buy: https://pl.geekbuying.com/item/SMA-Q2-Smartwatch-Heart-Rate-Monitor-Black-389947.html
-- Hexiwear (it stopped in 2017) 56$
+- Hexiwear 2017 56$
   - https://www.mikroe.com/hexiwear 
 - Watchy (no case, isn't waterproof) 55$
   - https://www.hackster.io/news/sport-your-hacker-status-on-your-wrist-with-watchy-an-esp32-powered-smartwatch-3db389fd4bc3
   - https://www.cnx-software.com/2020/03/05/watchy-smartwatch-esp32-wifi-bluetooth-soc-with-e-ink-display/
   - https://github.com/sqfmi/Watchy-Hardware
+- O Watch 85$
+  -http://theowatch.com
 - BangleJS (moded DT No.1 F18) 90$
   - https://banglejs.com
+- WatchX 99$
+  - https://www.watchx.io
 - Not available
  - Pebble (not made any more, old ones could use Rebble)
  - TG-Watch02 - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
-  
+ - WatchIO - https://github.com/eggfly/WatchIO
+- restricted possibility of hacking
+ -DZ09 and clones with Nucleus OS (10$)
+   - backup: https://www.gizmoadvices.com/create-read-back-rom-dump-dz09/
+   - firmwares: https://www.gizmoadvices.com/download-dz09-custom-firmwares/
+   - apps: https://www.gizmoadvices.com/install-apps-on-dz09-gv08-aplus-smartwatches/
+   - games: https://www.gizmoadvices.com/install-games-dz09-smartwatch/
+   - how to create app: https://forum.xda-developers.com/smartwatch/other-smartwatches/dz09-gv08-alus-compatible-vxp-apps-rom-t3340476
+
 # Micropython learning
 - https://realpython.com/micropython/

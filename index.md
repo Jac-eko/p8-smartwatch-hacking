@@ -19,7 +19,7 @@ Product page: <https://www.colmi.com/products/p8-smartwatch>
 New P9 product page: <https://www.colmi.com/products/p9-smartwatch>
 
 # Alternative software
-- WaspOS (MicroPython)
+**WaspOS (MicroPython)**
   - <https://github.com/daniel-thompson/wasp-os>
   - documentation: <https://wasp-os.readthedocs.io/en/latest/index.html>
   - forum: <https://forum.pine64.org/showthread.php?tid=9017>
@@ -27,26 +27,32 @@ New P9 product page: <https://www.colmi.com/products/p9-smartwatch>
   - installing tutorial
 
 [![Alt text](https://img.youtube.com/vi/VJoDtMy-4pk/0.jpg)](https://www.youtube.com/watch?v=VJoDtMy-4pk)
-- ATCwatch (C++)
+
+**ATCwatch (C++)**
   - <https://github.com/atc1441/ATCwatch>
   - discord: <https://discord.com/channels/717057001594683422/717057210211106826>
 [![Alt text](https://img.youtube.com/vi/rRqulnz1nJM/0.jpg)](https://www.youtube.com/watch?v=rRqulnz1nJM)
-- Modified ATCwach
+
+**Modified ATCwach**
   - <https://github.com/0x416c6578/p8-firmware>
-- P8-nb (Espurino js)
+
+**P8-nb (Espurino js)**
   - ninebot speed meter, calculator
   - <https://github.com/enaon/ninebot-one-nRF52/tree/master/p8-nb>
 
 [![Alt text](https://img.youtube.com/vi/4hs8I65Fz5g/0.jpg)](https://www.youtube.com/watch?v=4hs8I65Fz5g)
-- Espurino (js)
-  - <https://github.com/fanoush/ds-d6/tree/master/espruino/DFU/P8>
-- Another espurino (js)
-  - <https://github.com/gerardwr/P8
 
-[![Alt text](https://img.youtube.com/vi/PgB1PQA5_OQ/0.jpg)](https://www.youtube.com/watch?v=PgB1PQA5_OQ)
+**Espurino (js)**
+  - <https://github.com/fanoush/ds-d6/tree/master/espruino/DFU/P8>
+ [![Alt text](https://img.youtube.com/vi/PgB1PQA5_OQ/0.jpg)](https://www.youtube.com/watch?v=PgB1PQA5_OQ)
+
+**Another espurino (js)**
+  - <https://github.com/gerardwr/P8>
+
+
 
   
-- Gitter discussion
+**Gitter discussion**
   - <https://gitter.im/nRF51822-Arduino-Mbed-smart-watch/Lobby?at=5eaeabe831a6d25d7ca726f3>
   
 # How to flash with DaFlasher

@@ -1,8 +1,7 @@
 ---
-title: Hello
+title: Other hacable watches
 layout: page
-permalink: /URL-PATH/
-sidebar: toc
+permalink: /other-watches/
 ---
  
 Hello!

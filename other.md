@@ -6,7 +6,7 @@ permalink: /other-watches/
  
 # Other hackable watches (prices are not including shipping)
 **PineTime (only not glued case devkit) 25$**
-  - <https://www.pine64.org/pinetime/> te
+  - <https://www.pine64.org/pinetime/>
   - <https://wiki.pine64.org/index.php/PineTime>
   - buy: <https://store.pine64.org/?product=pinetime-dev-kit>
   - available OSes: <https://wiki.pine64.org/index.php/PineTime#Development_efforts>

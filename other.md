@@ -5,7 +5,7 @@ permalink: /other-watches/
 ---
  
 # Other hackable watches (prices are not including shipping)
-- PineTime (only not glued devkit) 25$
+**PineTime (only not glued case devkit) 25$**
   - https://www.pine64.org/pinetime/
   - https://wiki.pine64.org/index.php/PineTime
   - buy: https://store.pine64.org/?product=pinetime-dev-kit
@@ -13,7 +13,8 @@ permalink: /other-watches/
     - InfinityTime - https://github.com/JF002/Pinetime/blob/master/README.md
     - Visual Rust - https://marketplace.visualstudio.com/items?itemName=LeeLupYuen.visual-embedded-rust
     - CHIP-8 games - https://lupyuen.github.io/pinetime-rust-mynewt/articles/chip8
-- LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 25$
+
+**LILYGO® TTGO T-Watch-2020 (seams simple to program, but battery seems not to last long) 25$**
   - buy: 
     - 25$ https://pl.aliexpress.com/item/4000971508364.html
     - 26$ https://www.banggood.com/LILYGO-TTGO-T-Watch-2020-ESP32-Main-Chip-1_54-Inch-Touch-Display-Programmable-Wearable-Environmental-Interaction-Watch-p-1671427.html
@@ -45,11 +46,12 @@ permalink: /other-watches/
   - https://banglejs.com
 - WatchX 99$
   - https://www.watchx.io
-- Not available
-  - Pebble (not made any more, old ones could use Rebble)
-  - TG-Watch02 - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
-  - WatchIO - https://github.com/eggfly/WatchIO
-- Restricted possibility of hacking
+# Not available
+ - Pebble (not made any more, old ones could use Rebble)
+ - TG-Watch02 - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
+ - WatchIO - https://github.com/eggfly/WatchIO
+
+# Restricted possibility of hacking
   - DZ09 and clones with Nucleus OS (10$)
    - backup: https://www.gizmoadvices.com/create-read-back-rom-dump-dz09/
    - firmware’s: https://www.gizmoadvices.com/download-dz09-custom-firmwares/

@@ -1,12 +1,16 @@
 # p8-smartwach
 P8 Smartwatch (Colmi) hacking resources page
 
+P8 watch is one of many smartwatches supported by DaFit app (including PineTime). It is quite cheap (~$17 USD on aliexpress) and has full touchscreen, button and 240x240 color display.
+
 "the p8 watch is a pinetime, same hardware, pinouts, manufacturer. Some minor differences on how the button is handled exist" - enaon
 "PineTime and P8 are almost identical but attract different types of developer" - Daniel Thompson
 
 Buy: https://pl.aliexpress.com/item/4000557708951.html (18$)
 
 Product page: https://www.colmi.com/products/p8-smartwatch
+
+New P9 product page: https://www.colmi.com/products/p9-smartwatch
 
 # Alternative software
 - WaspOS (MicroPython)
@@ -19,18 +23,21 @@ Product page: https://www.colmi.com/products/p8-smartwatch
 [![Alt text](https://img.youtube.com/vi/VJoDtMy-4pk/0.jpg)](https://www.youtube.com/watch?v=VJoDtMy-4pk)
 - ATCwatch (C++)
   - https://github.com/atc1441/ATCwatch
-  
+  - discord: https://discord.com/channels/717057001594683422/717057210211106826
 [![Alt text](https://img.youtube.com/vi/rRqulnz1nJM/0.jpg)](https://www.youtube.com/watch?v=rRqulnz1nJM)
-- Espurino (js)
-  - https://github.com/fanoush/ds-d6/tree/master/espruino/DFU/P8
-
-[![Alt text](https://img.youtube.com/vi/PgB1PQA5_OQ/0.jpg)](https://www.youtube.com/watch?v=PgB1PQA5_OQ)
-- P8-nb (Espurino)
+- Modified ATCwach
+  - https://github.com/0x416c6578/p8-firmware
+- P8-nb (Espurino js)
   - ninebot speed meter, calculator
   - https://github.com/enaon/ninebot-one-nRF52/tree/master/p8-nb
 
 [![Alt text](https://img.youtube.com/vi/4hs8I65Fz5g/0.jpg)](https://www.youtube.com/watch?v=4hs8I65Fz5g)
-   
+- Espurino (js)
+  - https://github.com/fanoush/ds-d6/tree/master/espruino/DFU/P8
+- Another espurino (js)
+  - https://github.com/gerardwr/P8
+
+[![Alt text](https://img.youtube.com/vi/PgB1PQA5_OQ/0.jpg)](https://www.youtube.com/watch?v=PgB1PQA5_OQ)
 
   
 - Gitter discussion

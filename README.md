@@ -43,10 +43,11 @@ Product page: https://www.colmi.com/products/p8-smartwatch
 [![Alt text](https://img.youtube.com/vi/gUVEz-pxhgg/0.jpg)](https://www.youtube.com/watch?v=gUVEz-pxhgg)
 
 - Other DaFlasher compatible smartwatches and bracelets
- - https://gist.github.com/atc1441/d0a3c1f5ee69ab901bccba4eb47a6e4e
+  - https://gist.github.com/atc1441/d0a3c1f5ee69ab901bccba4eb47a6e4e
 
 # Revert to original firmware
-Daniel Thompson
+Daniel Thompson:
+
 "You will need to revert back to SoftDevice 5 and have a copy of the original firmware. I can help with the first bit but I didn't make any firmware backup (and couldn't legally share it even if I had) so I am not able to provide a copy of the original firmware. Anyhow, if you do have a backup then note that the zip updates in DaFlasherFiles cannot be applied directly to wasp-bootloader but we can return to the DaFlasher bootloaders by installing https://github.com/fanoush/ds-d6/blob/master/micropython/DS-D6-adafruit-back-to-desay-sd132v201.zip followed by ATCdfuFromSD2toSD5.zip . If you don't have a backup and decided you didn't like wasp-os then perhaps you could try ATCwatch to see if you like that better!"
 
 # Other useful information
@@ -89,17 +90,17 @@ Daniel Thompson
   - https://www.cnx-software.com/2020/03/05/watchy-smartwatch-esp32-wifi-bluetooth-soc-with-e-ink-display/
   - https://github.com/sqfmi/Watchy-Hardware
 - O Watch 85$
-  -http://theowatch.com
+  - http://theowatch.com
 - BangleJS (moded DT No.1 F18) 90$
   - https://banglejs.com
 - WatchX 99$
   - https://www.watchx.io
 - Not available
- - Pebble (not made any more, old ones could use Rebble)
- - TG-Watch02 - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
- - WatchIO - https://github.com/eggfly/WatchIO
+  - Pebble (not made any more, old ones could use Rebble)
+  - TG-Watch02 - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
+  - WatchIO - https://github.com/eggfly/WatchIO
 - restricted possibility of hacking
- -DZ09 and clones with Nucleus OS (10$)
+  -DZ09 and clones with Nucleus OS (10$)
    - backup: https://www.gizmoadvices.com/create-read-back-rom-dump-dz09/
    - firmwares: https://www.gizmoadvices.com/download-dz09-custom-firmwares/
    - apps: https://www.gizmoadvices.com/install-apps-on-dz09-gv08-aplus-smartwatches/

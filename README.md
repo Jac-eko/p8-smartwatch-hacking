@@ -13,7 +13,7 @@ Product page: https://www.colmi.com/products/p8-smartwatch
   - https://github.com/daniel-thompson/wasp-os
   - documentation: https://wasp-os.readthedocs.io/en/latest/index.html
   - forum: https://forum.pine64.org/showthread.php?tid=9017
-  - exemple of startrek themed modification: https://forum.pine64.org/showthread.php?tid=11287
+  - example of Star Trek themed modification: https://forum.pine64.org/showthread.php?tid=11287
   - installing tutorial
 
 [![Alt text](https://img.youtube.com/vi/VJoDtMy-4pk/0.jpg)](https://www.youtube.com/watch?v=VJoDtMy-4pk)
@@ -71,14 +71,14 @@ Daniel Thompson:
   - https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library
   - https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/
 - Mixtile GENA 2017 (monochromic always on display, for paring with iOS devices, no case and strap) $34
-  - Buy: https://www.dfrobot.com/product-1402.html
+  - buy: https://www.dfrobot.com/product-1402.html
   - buy: https://www.tindie.com/products/Mixtile/mixtile-gena/
 - DSTIKE (no case, isn't waterproof) 40$
   - https://www.cnx-software.com/2020/03/31/dstike-esp32-watch-development-board-comes-with-oled-or-tft-display/
 
 - Amazfit Bip (games, calculator, seems hard to create new apps) ~50-65$
   - https://github.com/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
-  - list of apps: https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fmyamazfit.ru%2Fthreads%2Fbip-prilozhenija-dlja-bipos-elf.1174%2F (translated to english from russian)
+  - list of apps: https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fmyamazfit.ru%2Fthreads%2Fbip-prilozhenija-dlja-bipos-elf.1174%2F (translated to English from Russian)
 - SMA-Q2 58$
   - https://github.com/emeryth/sma-q2-oss
   - https://hackaday.io/project/85463-color-open-source-smartwatch
@@ -99,10 +99,10 @@ Daniel Thompson:
   - Pebble (not made any more, old ones could use Rebble)
   - TG-Watch02 - https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/
   - WatchIO - https://github.com/eggfly/WatchIO
-- restricted possibility of hacking
-  -DZ09 and clones with Nucleus OS (10$)
+- Restricted possibility of hacking
+  - DZ09 and clones with Nucleus OS (10$)
    - backup: https://www.gizmoadvices.com/create-read-back-rom-dump-dz09/
-   - firmwares: https://www.gizmoadvices.com/download-dz09-custom-firmwares/
+   - firmware’s: https://www.gizmoadvices.com/download-dz09-custom-firmwares/
    - apps: https://www.gizmoadvices.com/install-apps-on-dz09-gv08-aplus-smartwatches/
    - games: https://www.gizmoadvices.com/install-games-dz09-smartwatch/
    - how to create app: https://forum.xda-developers.com/smartwatch/other-smartwatches/dz09-gv08-alus-compatible-vxp-apps-rom-t3340476

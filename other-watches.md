@@ -1,7 +1,7 @@
 ---
-title: Other hacable watches
+title: Hackable watches
 layout: page
-permalink: /other-watches/
+permalink: /hackable-watches/
 ---
  
 # Other hackable watches (prices are not including shipping)

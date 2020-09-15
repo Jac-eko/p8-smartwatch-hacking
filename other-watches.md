@@ -39,6 +39,7 @@ Sorted by price (lowest first)
 **SMA-Q2 58$**
   - <https://github.com/emeryth/sma-q2-oss>
   - <https://hackaday.io/project/85463-color-open-source-smartwatch>
+  - other OS: <https://github.com/BigCorvus/SMA-Q2-nrf52840-dualMode-firmware>
   - Buy: <https://pl.geekbuying.com/item/SMA-Q2-Smartwatch-Heart-Rate-Monitor-Black-389947.html>
 
 **Hexiwear 2017 56$**

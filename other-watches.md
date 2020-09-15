@@ -69,7 +69,7 @@ Sorted by price (lowest first)
  - WatchIO - <https://github.com/eggfly/WatchIO>
 
 # Restricted possibility of hacking
-  - DZ09 and clones with Nucleus OS (10$)
+- DZ09 and clones with Nucleus OS (10$)
    - backup: <https://www.gizmoadvices.com/create-read-back-rom-dump-dz09/>
    - firmware’s: <https://www.gizmoadvices.com/download-dz09-custom-firmwares/>
    - apps: <https://www.gizmoadvices.com/install-apps-on-dz09-gv08-aplus-smartwatches/>

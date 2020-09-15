@@ -17,6 +17,9 @@ Sorted by price (lowest first)
     - Visual Rust - <https://marketplace.visualstudio.com/items?itemName=LeeLupYuen.visual-embedded-rust>
     - CHIP-8 games - <https://lupyuen.github.io/pinetime-rust-mynewt/articles/chip8>
 
+ <img src="https://www.pine64.org/wp-content/uploads/2019/10/PineTime_leaflet.jpg" width="300">
+
+
 **LILYGO® TTGO T-Watch-2020 (seams simple to program, battery last 1-3 days) 25$**
   - buy: 
     - 25$ <https://pl.aliexpress.com/item/4000971508364.html>
@@ -24,6 +27,8 @@ Sorted by price (lowest first)
     - 30$ <https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/>
   - <https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library>
   - <https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/>
+
+ <img src="https://content.instructables.com/ORIG/FEC/BIUX/KDVO9G7P/FECBIUXKDVO9G7P.jpg" width="300">
 
 **Mixtile GENA 2017 (monochromic always on display, for paring with iOS devices, no case and strap) $34**
   - buy: <https://www.dfrobot.com/product-1402.html>
@@ -51,15 +56,17 @@ Sorted by price (lowest first)
   - <https://www.cnx-software.com/2020/03/05/watchy-smartwatch-esp32-wifi-bluetooth-soc-with-e-ink-display/>
   - <https://github.com/sqfmi/Watchy-Hardware>
 
-**O Watch 85$**
-  - <http://theowatch.com>
-
-**BangleJS (moded DT No.1 F18) 90$**
+**BangleJS (moded DT No.1 F18) 60$**
   - <https://banglejs.com>
   - apps: <https://banglejs.com/apps/>
   - dev tutrials:
    - <https://www.espruino.com/Bangle.js+Development<
    - <http://www.espruino.com/Bangle.js+First+App>
+   
+<img src="https://www.espruino.com/refimages/Banglejs_bangle-leaf.jpg" width="300">
+
+**O Watch 85$**
+  - <http://theowatch.com>
 
 **WatchX 99$**
   - <https://www.watchx.io>

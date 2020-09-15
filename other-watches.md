@@ -69,6 +69,16 @@ Sorted by price (lowest first)
  - TG-Watch02 - <https://www.reddit.com/r/pebble/comments/g7pgrc/homemade_python_smart_watch/>
  - WatchIO - <https://github.com/eggfly/WatchIO>
 
+# DIY
+**Retro Watch 2014**
+- http://www.hardcopyworld.com/ngine/aduino/index.php/archives/670
+ ![Retro Watch Image](http://www.hardcopyworld.com/ngine/aduino/wp-content/uploads/sites/3/2014/02/title_small.jpg)
+ 
+**DIY Digital Wristwatch 2013**
+- https://blog.zakkemble.net/diy-digital-wristwatch/
+![Retro DIY Digital Wristwatch 2013](https://blog.zakkemble.net/wp-content/uploads/2013/09/PICT2272-300x225.jpg)
+
+ 
 # Restricted possibility of hacking
 - DZ09 and clones with Nucleus OS (10$)
    - backup: <https://www.gizmoadvices.com/create-read-back-rom-dump-dz09/>

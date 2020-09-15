@@ -60,8 +60,8 @@ Sorted by price (lowest first)
   - <https://banglejs.com>
   - apps: <https://banglejs.com/apps/>
   - dev tutrials:
-   - <https://www.espruino.com/Bangle.js+Development>
-   - <http://www.espruino.com/Bangle.js+First+App>
+    - <https://www.espruino.com/Bangle.js+Development>
+    - <http://www.espruino.com/Bangle.js+First+App>
    
 <img src="https://www.espruino.com/refimages/Banglejs_bangle-leaf.jpg" width="300">
 

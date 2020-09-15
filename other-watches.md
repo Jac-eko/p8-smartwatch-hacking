@@ -8,6 +8,18 @@ permalink: /hackable-watches/
 
 Sorted by price (lowest first)
 
+**M5StickC PLUS 14$ (without strap)**
+- platforms: UIFlow (visual coding), MicroPython, Arduino
+- buy:
+ - <https://m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit>
+ - $18 pack with strap and 2 modules <https://m5stack.com/collections/m5-core/products/m5stickc-development-kit-with-hat?variant=17348918935642>
+ - <https://www.banggood.com/pl/M5Stack-M5StickC-PLUS-ESP32-PICO-Mini-IoT-Development-Board-Kit-bluetooth-and-WiFi-ESP32-Bigger-Screen-IoT-Controller-p-1720510.html>
+ - 2019 version $10 <https://pl.aliexpress.com/item/32985247364.html>
+- manual: <https://usermanual.wiki/M5Stack-Technology/M5STICKCPLUS>
+ 
+ <img src="https://cdn.shopify.com/s/files/1/0056/7689/2250/products/8_1c0bc3ae-a984-4802-b1b8-9d94acb6aa38_1200x1200.jpg" width="300">
+
+
 **PineTime (only devkit with not glued case ) 25$**
   - <https://www.pine64.org/pinetime/>
   - <https://wiki.pine64.org/index.php/PineTime>

@@ -1,5 +1,5 @@
 ---
-title: P8 hack
+title: P8 hacking
 layout: default
 permalink: /
 ---

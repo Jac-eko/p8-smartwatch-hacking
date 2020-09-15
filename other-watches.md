@@ -72,10 +72,12 @@ Sorted by price (lowest first)
 # DIY
 **Retro Watch 2014**
 - http://www.hardcopyworld.com/ngine/aduino/index.php/archives/670
- ![Retro Watch Image](http://www.hardcopyworld.com/ngine/aduino/wp-content/uploads/sites/3/2014/02/title_small.jpg)
+
+![Retro Watch Image](http://www.hardcopyworld.com/ngine/aduino/wp-content/uploads/sites/3/2014/02/title_small.jpg)
  
 **DIY Digital Wristwatch 2013**
 - https://blog.zakkemble.net/diy-digital-wristwatch/
+
 ![Retro DIY Digital Wristwatch 2013](https://blog.zakkemble.net/wp-content/uploads/2013/09/PICT2272-300x225.jpg)
 
  

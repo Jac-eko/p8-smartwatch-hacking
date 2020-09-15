@@ -3,6 +3,7 @@ title: P8 hack
 layout: default
 permalink: /
 ---
+a
 > If you are reading this from github md go to <https://jac-eko.github.io/p8-smartwatch-hacking/> for more comfortable reading. 
 
 # p8-smartwach

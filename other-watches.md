@@ -94,8 +94,32 @@ Prices are not including shipping
  - WatchIO - <https://github.com/eggfly/WatchIO>
 
 # DIY
+**nRF52 SmartWatch 2020**
+- <https://hackaday.io/project/169967-nrf52-smartwatch>
+
+ <img src="https://cdn.hackaday.io/images/7849541598846400326.jpg" width="300">
+
+**Chronio 2016**
+- <https://hackaday.io/project/12876-chronio>
+
+ <img src="https://cdn.hackaday.io/images/2783191473287568127.JPG" width="300">
+
+
+**Watchduino2 2015**
+- <https://hackaday.io/project/7244-watchduino2>
+
+ <img src="https://cdn.hackaday.io/images/1297621442765266659.jpg" width="300">
+
+
+**OSHWatch 2014**
+- <https://hackaday.io/project/2263-oshwatch>
+
+ <img src="https://cdn.hackaday.io/images/114021411771900090.jpg" width="300">
+![Watch Image]()
+
+
 **Retro Watch 2014**
-- http://www.hardcopyworld.com/ngine/aduino/index.php/archives/670
+- <http://www.hardcopyworld.com/ngine/aduino/index.php/archives/670>
 
 ![Retro Watch Image](http://www.hardcopyworld.com/ngine/aduino/wp-content/uploads/sites/3/2014/02/title_small.jpg)
  

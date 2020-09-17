@@ -4,9 +4,10 @@ layout: page
 permalink: /hackable-watches/
 ---
  
-# Other hackable watches (prices are not including shipping)
+# Other hackable watches and wearables 
 
 Sorted by price (lowest first)
+Prices are not including shipping
 
 **M5StickC PLUS 14$ (without strap)**
 - platforms: UIFlow (visual coding), MicroPython, Arduino

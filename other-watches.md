@@ -115,7 +115,6 @@ Prices are not including shipping
 - <https://hackaday.io/project/2263-oshwatch>
 
  <img src="https://cdn.hackaday.io/images/114021411771900090.jpg" width="300">
-![Watch Image]()
 
 
 **Retro Watch 2014**

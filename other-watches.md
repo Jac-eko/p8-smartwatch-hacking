@@ -32,12 +32,15 @@ Sorted by price (lowest first)
  <img src="https://www.pine64.org/wp-content/uploads/2019/10/PineTime_leaflet.jpg" width="300">
 
 
-**LILYGO® TTGO T-Watch-2020 (seams simple to program, battery last 1-3 days) 25$**
+**LILYGO® TTGO T-Watch-2020 (documentation seams poor, many people complain on battery - last from few hours to 3 days) 25$**
   - buy: 
     - 25$ <https://pl.aliexpress.com/item/4000971508364.html>
     - 26$ <https://www.banggood.com/LILYGO-TTGO-T-Watch-2020-ESP32-Main-Chip-1_54-Inch-Touch-Display-Programmable-Wearable-Environmental-Interaction-Watch-p-1671427.html>
     - 30$ <https://www.tindie.com/products/ttgo/lilygor-ttgo-t-watch-2020/>
-  - <https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library>
+    - <https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library>
+  - user-created firmware
+    - <https://gitlab.com/mooond/t-watch2020-esp32-with-micropython>
+    - <https://github.com/AlexGoodyear/agoodWatch>
   - <https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/>
 
  <img src="https://content.instructables.com/ORIG/FEC/BIUX/KDVO9G7P/FECBIUXKDVO9G7P.jpg" width="300">

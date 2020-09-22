@@ -104,6 +104,10 @@ Prices are not including shipping
 
  <img src="https://cdn.hackaday.io/images/2783191473287568127.JPG" width="300">
 
+**OwnWatch 2015**
+- <https://hackaday.io/project/3545-ownwatch>
+
+ <img src="https://cdn.hackaday.io/images/8925341420945059119.jpg" width="200">
 
 **Watchduino2 2015**
 - <https://hackaday.io/project/7244-watchduino2>
